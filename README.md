@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-
+! [Header](map.png)
 
 ## Overview
 
